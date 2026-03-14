@@ -24,6 +24,8 @@ JavaScript | React | Node | MongoDB | Python | TensorFlow
 
 ---
 
+https://readme-typing-svg.herokuapp.com
+
 ## 📈 GitHub Stats
 
 https://github-readme-stats.vercel.app/api?username=Risaabhhhhh&show_icons=true&theme=tokyonight
