@@ -1,8 +1,36 @@
 <div align="center">
 
-# Hi there, I'm Rishabh 👋
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rishabh&fontSize=80&fontColor=41F7B3&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer&descAlignY=60&descSize=18&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=41F7B3&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI+Projects)](https://git.io/typing-svg)
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=22&pause=1000&color=41F7B3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI+that+sees+the+market+📊;Always+learning+%7C+Always+building)](https://git.io/typing-svg)
+
+<!-- CODING GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building **[AlphaLens](https://github.com/Risaabhhhhh/AlphaLens)** — an AI-powered financial news alpha detector
+- 🌱 Deep diving into **NLP, signal processing & quantitative ML**
+- ⚡ Love combining **web tech + machine learning** into real products
+- 🐳 Comfortable with **Docker** & production deployments
+
+---
+
+## 🚧 Currently Working On
+
+<div align="center">
+
+| 🔬 Project | 📌 Status | 🛠 Stack |
+|-----------|----------|---------|
+| [**AlphaLens**](https://github.com/Risaabhhhhh/AlphaLens) — Financial News Alpha Detector | 🟡 In Progress | Python · NLP · Docker · ML |
+| 🌿 Leaf Disease Detector | ✅ Done | OpenCV · TensorFlow |
+| 🌐 Construction Business Website | ✅ Done | React · Node.js · MongoDB |
 
 </div>
 
@@ -23,25 +51,30 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
+### ⚙️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Risaabhhhhh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Risaabhhhhh&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Activity Graph
 
-| Project | Description |
-|--------|-------------|
-| 📊 **Financial News Alpha Detector** | Detects market signals from financial news using NLP & ML |
-| 🌿 **Leaf Disease Detector** | Computer vision model to identify plant diseases from leaf images |
-| 🌐 **Construction Business Website** | Full-stack web presence for a construction business |
+<div align="center">
+
+[![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Risaabhhhhh&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
@@ -55,23 +88,12 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Risaabhhhhh&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Risaabhhhhh&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-tiwari)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhtiwari1521@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 </div>
@@ -80,6 +102,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Risaabhhhhh&color=41F7B3&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Risaabhhhhh&color=41F7B3&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
