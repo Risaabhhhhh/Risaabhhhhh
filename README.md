@@ -1,8 +1,6 @@
 # Hi 👋 I'm Rishabh
 
-🚀 Full Stack Developer (MERN)  
-📊 Exploring AI & Data Science  
-🧠 Building Machine Learning Projects  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=41F7B3&width=435&lines=Full+Stack+Developer+;Machine+Learning+Enthusiast;Building+AI+Projects)](https://git.io/typing-svg)  
 
 ---
 
