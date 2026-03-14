@@ -6,9 +6,6 @@
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=22&pause=1000&color=41F7B3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI+that+sees+the+market+📊;Always+learning+%7C+Always+building)](https://git.io/typing-svg)
 
-<!-- CODING GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
-
 </div>
 
 ---
@@ -19,20 +16,6 @@
 - 🌱 Deep diving into **NLP, signal processing & quantitative ML**
 - ⚡ Love combining **web tech + machine learning** into real products
 - 🐳 Comfortable with **Docker** & production deployments
-
----
-
-## 🚧 Currently Working On
-
-<div align="center">
-
-| 🔬 Project | 📌 Status | 🛠 Stack |
-|-----------|----------|---------|
-| [**AlphaLens**](https://github.com/Risaabhhhhh/AlphaLens) — Financial News Alpha Detector | 🟡 In Progress | Python · NLP · Docker · ML |
-| 🌿 Leaf Disease Detector | ✅ Done | OpenCV · TensorFlow |
-| 🌐 Construction Business Website | ✅ Done | React · Node.js · MongoDB |
-
-</div>
 
 ---
 
@@ -67,17 +50,6 @@
 </div>
 
 ---
-
-## 📊 Activity Graph
-
-<div align="center">
-
-[![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Risaabhhhhh&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
