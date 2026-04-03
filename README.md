@@ -1,30 +1,28 @@
 <div align="center">
 
-<!-- HERO GIF -->
 <img src="./PixeLɑnd ◇.gif" width="100%" />
 
 <br><br>
 
-<!-- SOCIAL BAR -->
 <a href="https://github.com/Risaabhhhhh">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/rishabh-tiwari-96aa34265">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="mailto:rishabhtiwari1521@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br><br>
 
-<hr style="border: 0.5px solid rgba(65,247,179,0.2); width: 70%;" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=41F7B3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+ML+Engineer;Building+systems+that+go+beyond+working.;Clean+code.+Real+impact.+Always+learning.)
 
 </div>
 
@@ -32,69 +30,62 @@
 
 <div align="center">
 
-<h2>👨‍💻 About Me</h2>
-
-<table style="border: 1px solid rgba(65,247,179,0.2); border-radius: 12px; padding: 10px;">
-<tr>
-
-<td width="60%" align="left" style="vertical-align: top; padding: 25px;">
-
-<p style="font-size: 15.5px; line-height: 1.7; color: #c9d1d9;">
-
-I'm <b style="color:#41F7B3;">Rishabh</b> — a developer focused on building systems that go beyond just working.
-
-<br><br>
-
-I enjoy creating <b>real-world, production-ready applications</b> by combining <b>full-stack development</b> with <b>machine learning</b>.  
-My goal is to design solutions that are practical, scalable, and actually useful.
-
-<br><br>
-
-Over time, I've developed a strong interest in understanding how systems behave — from user interfaces to data pipelines — and turning that understanding into clean, efficient implementations.
-
-</p>
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="./Hero.jpg" width="260px"
-style="border-radius: 20px; box-shadow: 0 0 40px rgba(65,247,179,0.25);" />
-
-</td>
-
-</tr>
-</table>
+## 👨‍💻 About Me
 
 </div>
 
-</div>
+<img align="right" src="./Hero.jpg" width="230px" />
+
+### Hey, I'm Rishabh 👋
+
+I'm a developer focused on building systems that go **beyond just working** — I care about how things are architected, why they scale, and whether they actually solve a real problem.
+
+**What I do:**
+-  Build full-stack web apps with clean, maintainable code
+-  Integrate ML models into production-ready pipelines
+-  Work across the stack — from UI to database to data layer
+-  Think in systems — always asking *why*, not just *how*
+
+I'm currently deepening my knowledge in **machine learning** and **scalable backend design**, with a long-term goal of building products that make a tangible difference.
+
+> *"Good systems are invisible. Great ones are inevitable."*
+
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-## ⚙️ Technologies
-
-<hr style="border: 0.5px solid rgba(255,255,255,0.1); width: 80%;" />
+## ⚙️ Tech Stack
 
 <br>
 
-<!-- ALL TECH STACK MERGED -->
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white"/>
+**— Frontend —**
+
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br>
+
+**— Backend & Databases —**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+**— ML & Data —**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -102,27 +93,52 @@ style="border-radius: 20px; box-shadow: 0 0 40px rgba(65,247,179,0.25);" />
 
 <div align="center">
 
+## 📊 GitHub Stats
+
 <br>
 
-<!-- SNAKE -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://streak-stats.demolab.com/?user=Risaabhhhhh&theme=github-dark&hide_border=true&border_radius=12" width="49%" />
+
 
 <br><br>
 
-<!-- STATS -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risaabhhhhh&layout=compact&theme=github_dark&hide_border=true&border_radius=12" width="40%" />
 
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Risaabhhhhh&theme=github-dark&hide_border=true&border_radius=12" width="48%" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
+---
+
 <div align="center">
 
-<pre style="color:#41F7B3; font-size:14px;">
+## 🤝 Let's Connect
+
+If you're working on something interesting — or just want to talk systems, code, or ideas — feel free to reach out.
+
+<br>
+
+<a href="https://linkedin.com/in/rishabh-tiwari-96aa34265">
+  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:rishabhtiwari1521@gmail.com">
+  <img src="https://img.shields.io/badge/Drop_me_an_email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+```
 > system.boot()
 > loading modules...
 > initializing developer profile...
-> status: ready
-</pre>
+> status: ready ✓
+```
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Risaabhhhhh&color=brightgreen&style=flat-square&label=profile+views)
 
 </div>
