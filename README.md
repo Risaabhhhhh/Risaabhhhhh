@@ -2,7 +2,29 @@
   <img src="./PixeLɑnd ◇.gif" width="100%" />
 </div>
 
+<br>
+
 <div align="center">
+
+<div align="center">
+
+<a href="https://github.com/Risaabhhhhh">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/rishabh-tiwari-96aa34265">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:rishabhtiwari1521@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 <h2>👨‍💻 About Me</h2>
 
