@@ -110,8 +110,19 @@ style="border-radius: 20px; box-shadow: 0 0 40px rgba(65,247,179,0.25);" />
 <br><br>
 
 <!-- STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=Risaabhhhhh&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" width="48%" />
+
 
 <img src="https://streak-stats.demolab.com/?user=Risaabhhhhh&theme=github-dark&hide_border=true&border_radius=12" width="48%" />
+
+</div>
+
+<div align="center">
+
+<pre style="color:#41F7B3; font-size:14px;">
+> system.boot()
+> loading modules...
+> initializing developer profile...
+> status: ready
+</pre>
 
 </div>
